@@ -1,0 +1,91 @@
+body{
+    display: flex;
+    justify-content: center;
+align-items: center;
+height: 100vh;
+margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#weather{
+ background-image: url(pexels-pixabay-355508.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ width: 1500px;
+ padding: 20px 40px;
+ 
+
+height: 95vh;
+}
+#we{
+    color: orange;
+    text-align: center;
+    padding-top: 20px;
+}
+h3{
+    color: orange;
+}
+#s{
+     color: rgb(211, 198, 198);
+    text-align: center;
+}
+#weather-box{
+    border-radius: 20px;
+background-color: rgba(61, 59, 59, 0.549);
+width: 600px;
+height:500px ;
+
+
+margin: auto;
+}
+#today{
+   background-color: rgba(61, 59, 59, 0.549);
+   width: 500px; 
+   height: 100px;
+   margin-left: 30px;
+   border-radius: 20px;
+   padding: 20px;
+   display: flex;
+   justify-content: space-between;
+   
+}
+#to{
+    color: orange;
+}
+#sun{
+    width: 140px;
+    
+    
+}
+p{
+    text-align: center;
+}
+#boxes{
+    display: flex;
+    justify-content: space-between;
+
+}
+.box{
+    margin: 20px;
+background-color: rgba(61, 59, 59, 0.549);
+width: 160px;
+height: 144px;
+border-radius: 20px;
+text-align: center;
+padding: 5px;
+}
+#sun2{
+width: 40px;
+text-align: center;
+}
+#cl{
+    width: 40px;
+}
+#sun3{
+    width: 40px;
+}
+#cl2{
+    width: 40px;
+}
+.ccc{
+    color: rgb(211, 198, 198);
+}
